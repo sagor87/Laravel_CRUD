@@ -13,7 +13,7 @@
               </div>
         @endif
 
-        <h4>Student List</h4>
+        <h3>Student List</h3>
 
         <table class="table table-bordered">
                 <thead>
